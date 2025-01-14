@@ -7,6 +7,5 @@ class Solution {
                     if (m > x / m)    
                         r = m;    
                           else       
-                           l = m + 1;    }  
-                             // L: smallest number s.t. l * l > x   
+                           l = m + 1;    } 
                               return (int) l - 1;  }}
