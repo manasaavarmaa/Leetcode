@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/manasaavarmaa/Leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manasaavarmaa/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manasaavarmaa/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
