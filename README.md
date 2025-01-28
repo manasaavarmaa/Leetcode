@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manasaavarmaa/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/manasaavarmaa/Leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manasaavarmaa/Leetcode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manasaavarmaa/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manasaavarmaa/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
