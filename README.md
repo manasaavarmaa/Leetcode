@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manasaavarmaa/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manasaavarmaa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/manasaavarmaa/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/manasaavarmaa/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/manasaavarmaa/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manasaavarmaa/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manasaavarmaa/Leetcode/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/manasaavarmaa/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/manasaavarmaa/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manasaavarmaa/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manasaavarmaa/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/manasaavarmaa/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
