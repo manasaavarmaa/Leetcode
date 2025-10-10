@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manasaavarmaa/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/manasaavarmaa/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/manasaavarmaa/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manasaavarmaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3636-check-balanced-string](https://github.com/manasaavarmaa/Leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manasaavarmaa/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/manasaavarmaa/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/manasaavarmaa/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manasaavarmaa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
